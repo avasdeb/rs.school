@@ -6,8 +6,8 @@
 
 ## Code Example
 ```
-function sum(a, b) {
-  return a + b;
+function sum(x, y) {
+  return x + y;
 }
 
 let result = sum(1, 2);
